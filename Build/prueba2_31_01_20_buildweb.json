@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"dataUrl": "prueba2_31_01_20_buildweb.data.unityweb",
+"wasmCodeUrl": "prueba2_31_01_20_buildweb.wasm.code.unityweb",
+"wasmFrameworkUrl": "prueba2_31_01_20_buildweb.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
